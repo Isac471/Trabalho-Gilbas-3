@@ -51,13 +51,17 @@ footer{
     text-align: center;
     border-radius: 50px;
     border: 5px solid white;
-    margin: 50px 750px  auto;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
 }
 #Atividade-02-07{
     text-align: center;
     border-radius: 50px;
     border: 5px solid white;
-    margin: 50px 750px  auto;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
 }
 #Atividade02-07{
     width: 300px;
